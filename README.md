@@ -1,4 +1,4 @@
-# Simple React SSR example
+# Simple React SSR example to understand RSC
 
 > Build components on server and send them to client 
 
